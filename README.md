@@ -4,6 +4,8 @@ Tentative Stage of project:
 2. Literature Review
 3. Inital Codes
 4. Final Result
+5. Final Project Paper
+6. Final Codes
 
 Content of the repository:
 Inital code for project to investigate on detecting early stage diabetes
